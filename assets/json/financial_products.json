@@ -1,0 +1,32 @@
+[
+	{
+		"id": 1,
+		"name": "Urun",
+		"icon": "groups.svg",
+		"color": "#998924"
+	},
+	{
+		"id": 2,
+		"name": "Pembiayaan Porsi Haji",
+		"icon": "kaaba.svg",
+		"color": "#61b24f"
+	},
+	{
+		"id": 3,
+		"name": "Financial Check Up",
+		"icon": "receipt.svg",
+		"color": "#e9b727"
+	},
+	{
+		"id": 4,
+		"name": "Asuransi Mobil",
+		"icon": "car.svg",
+		"color": "#4e6b88"
+	},
+	{
+		"id": 5,
+		"name": "Asuransi Properti",
+		"icon": "home_insurance.svg",
+		"color": "#d3494c"
+	}
+]

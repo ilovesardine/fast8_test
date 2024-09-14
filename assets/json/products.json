@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Voucher Digital Indomaret Rp 25.000",
+        "base_price": 25000,
+        "price": 25000,
+        "image_url": "https://seeklogo.com/images/I/indomaret-logo-DBC7AF66C5-seeklogo.com.png"
+    },
+    {
+        "id": 2,
+        "name": "Voucher Digital H&M Rp 100.000",
+        "base_price": 100000,
+        "price": 97000,
+        "image_url": "https://seeklogo.com/images/H/H_and_M-logo-9C22DB457C-seeklogo.com.png"
+    },
+    {
+        "id": 3,
+        "name": "Voucher Digital Alfamart Rp 25.000",
+        "base_price": 25000,
+        "price": 25000,
+        "image_url": "https://seeklogo.com/images/A/alfamart-logo-13EE0761D0-seeklogo.com.png"
+    },
+    {
+        "id": 4,
+        "name": "Voucher Digital Excelso Rp 50.000",
+        "base_price": 50000,
+        "price": 48000,
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Excelso.png"
+    },
+    {
+        "id": 5,
+        "name": "Voucher Digital Bakmi GM Rp 100.000",
+        "base_price": 100000,
+        "price": 95000,
+        "image_url": "https://www.vhv.rs/dpng/d/446-4462454_promo-spesial-mandiri-ramadan-2019-bakmi-gm-orange.png"
+    },
+    {
+        "id": 6,
+        "name": "Voucher Digital Haagen Dazs Rp 100.000",
+        "base_price": 100000,
+        "price": 75000,
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/H%C3%A4agen-Dazs_Logo.svg/220px-H%C3%A4agen-Dazs_Logo.svg.png"
+    }
+]

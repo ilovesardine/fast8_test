@@ -1,0 +1,50 @@
+[
+	{
+		"id": 1,
+		"name": "Hobi",
+		"icon": "hobby.svg",
+		"color": "#2a8ddf"
+	},
+	{
+		"id": 2,
+		"name": "Merchandise",
+		"icon": "shopping_bag.svg",
+		"color": "#2a8ddf"
+	},
+	{
+		"id": 3,
+		"name": "Gaya Hidup Sehat",
+		"icon": "healthy.svg",
+		"color": "#e44235"
+	},
+	{
+		"id": 4,
+		"name": "Konseling & Rohani",
+		"icon": "forum.svg",
+		"color": "#2a8ddf"
+	},
+	{
+		"id": 5,
+		"name": "Self Development",
+		"icon": "brain.svg",
+		"color": "#4f4cb2"
+	},
+	{
+		"id": 6,
+		"name": "Perencanaan Keuangan",
+		"icon": "financial_planning.svg",
+		"color": "#28c666"
+	},
+	{
+		"id": 7,
+		"name": "Konsultasi Medis",
+		"icon": "mask.svg",
+		"color": "#28c666"
+	},
+	{
+		"id": 8,
+		"name": "Lihat Semua",
+		"icon": "dashboard.svg",
+		"color": "#2e333d"
+	}
+]
